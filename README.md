@@ -1,5 +1,7 @@
-#setup ubuntu and centos boxes
 
+#setup ubuntu and centos boxes
+dded new line
+d
 ### vagrant up  
 ### vagrant halt  
 
